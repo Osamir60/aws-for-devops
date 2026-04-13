@@ -1,2 +1,13 @@
-# aws-for-devops
-AWS services for DevOps including EC2, S3, networking, and real-world cloud implementations.
+# AWS for DevOps
+
+## Overview
+This repository contains my AWS learning journey for DevOps, including core services and real-world implementations.
+
+## Contents
+- Notes
+- Tasks
+- Mini Projects
+- Assets
+
+## Goal
+Understand and use AWS services to build scalable and reliable cloud infrastructure.
